@@ -1,2 +1,2 @@
 # Sounds_beta
-Sonidos
+Efectos de Sonidos, OTS, Musica de fondo y demas en este repositorio.
